@@ -1,0 +1,42 @@
+PODS:
+  - Charts (4.1.0):
+    - Charts/Core (= 4.1.0)
+  - Charts/Core (4.1.0):
+    - SwiftAlgorithms (~> 1.0)
+  - CSV.swift (2.4.3)
+  - CSVImporter (1.9.1):
+    - HandySwift (~> 2.5)
+  - HandySwift (2.8.0)
+  - SnapKit (5.7.1)
+  - SwiftAlgorithms (1.0.0)
+  - SwiftCSV (0.9.1)
+
+DEPENDENCIES:
+  - Charts
+  - CSV.swift (~> 2.4.3)
+  - CSVImporter
+  - SnapKit (~> 5.7.1)
+  - SwiftCSV
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - CSV.swift
+    - CSVImporter
+    - HandySwift
+    - SnapKit
+    - SwiftAlgorithms
+    - SwiftCSV
+
+SPEC CHECKSUMS:
+  Charts: ce0768268078eee0336f122c3c4ca248e4e204c5
+  CSV.swift: d38741b349c067b4a6db42237cb0e2974d21ccac
+  CSVImporter: 1543192354ecf8abccd2cc77947d190fd9cf2b18
+  HandySwift: 0a32500215166a56a58f972f7ce1641361307e8b
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+  SwiftCSV: 434082457a1598fd3d0028e9de6d0a3302933966
+
+PODFILE CHECKSUM: 362bba2536ec911a0bfa701a86e4f7afa5f8f014
+
+COCOAPODS: 1.15.2
